@@ -1,0 +1,30 @@
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+    }
+    .card-registration .select-arrow {
+    top: 13px;
+    }
+    img.img-fluid {
+        height: 1030px;
+        width: 573px;
+    }
+    .select {
+        border: 2px solid;
+        background-color: #ffc107;
+        font-weight: 700;
+        width: 99px;
+        padding: 10px 11px;
+        border: none;
+        border-radius: 8px;
+        position: absolute;
+        left: 690px;
+        bottom: 50px;
+    }
+    button#viki {
+        position: absolute;
+        right: 451px;
+        bottom: 46px;
+    }
